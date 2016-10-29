@@ -1,0 +1,35 @@
+
+top:
+- t-shirt
+- dress-shirt
+- long-sleeve shirt
+- tank top
+
+overwear:
+- jacket: thin jacket, thick jacket
+- sweater
+- cardigan
+
+bottoms:
+- jeans
+- sweats
+- shorts
+- skirt
+- leggings
+
+
+if high chance of rain
+- umbrella
+- rainboots
+- poncho
+- raincoat
+
+
+if snowing
+- wear boots 
+- heavy coat
+
+
+
+serverpress
+gist.github.com/malarkey/4031110
